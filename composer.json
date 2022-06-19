@@ -17,11 +17,11 @@
     "require": {
         "php": ">=5.5",
         "psr/log": "~1.0",
-        "symfony/config": "2.3 - 3",
-        "symfony/dependency-injection": "2.3 - 3",
+        "symfony/config": "3.4 - 4",
+        "symfony/dependency-injection": "3.4 - 4",
         "symfony/polyfill-php56": "^1.1",
-        "symfony/security": "2.3 - 3",
-        "symfony/security-bundle": "2.3 - 3",
+        "symfony/security": "3.4 - 4",
+        "symfony/security-bundle": "3.4 - 4",
         "zendframework/zend-ldap": "2.5 - 3"
     },
     "require-dev": {
